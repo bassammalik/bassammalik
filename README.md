@@ -24,13 +24,3 @@ Outside of work I swim, run, and make a pretty serious ribeye. Went to school in
 Python · PyTorch · TensorFlow · LangChain · Docker · AWS · scikit-learn · Java · C/C++ · Git
 
 ---
-
-## Projects
-
-| Project | Description |
-|---|---|
-| **[Smart Grid Energy Management](https://github.com/bassammalik/Smart-Grid-Energy-Management)** | RL agent for microgrid energy optimization |
-| **[Spam/Ham Classifier](https://github.com/bassammalik/spam-ham-classifier)** | ML/NLP pipeline for SMS classification |
-| **[Char-RNN Shakespeare](https://github.com/bassammalik/char-rnn-shakespeare)** | Character-level RNN trained on Shakespeare |
-| **[OpenInfra](https://github.com/bassammalik/OpenInfra)** | Python CLI for deploying containerized microservice infra via YAML + Docker SDK |
-| **[GraphPath Visualizer](https://github.com/bassammalik/graphpath-visualizer)** | Step-by-step BFS, Dijkstra, and A* visualization — React, D3.js, Flask |
