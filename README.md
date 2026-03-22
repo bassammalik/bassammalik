@@ -1,43 +1,29 @@
 # Bassam Malik
 
-```bash
-$ whoami
-Bassam Malik — Software Engineer & ML Engineer
+# Bassam Malik
 
-$ cat about.txt
-M.S. Computer Science (ML) — Georgia Tech
-B.S. Cognitive Science, ML & Neural Computation — UC San Diego
+Software engineer and ML engineer based in the Bay Area.
 
-Currently building RAG evaluation pipelines and SDK integrations @ PAIR Systems.
-Before that, built Python/Docker tooling to debug LLM inference failures @ Mercor.
-Interested in AI/ML safety, retrieval systems, and making models reliable in the real world.
+I studied ML and neural computation at UC San Diego and I'm finishing my master's in CS at Georgia Tech. Right now I'm working on RAG eval pipelines and SDK integrations at PAIR Systems. Before that I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
 
-$ echo $OUTSIDE_OF_CODE
-Swimming. Running. Probably reading something about AI safety.
-```
+Lately I've been getting more interested in ML safety and reliability. I like thinking about how these systems behave in practice, where they break, and how to make them more consistent when people actually depend on them. A lot of the stuff I work on ends up touching eval and making models a bit less unpredictable.
+
+I got into this because I want to build things that help people. That's pretty much it.
+
+Outside of work I swim, run, and make a pretty serious ribeye. Went to school in San Diego and spent a lot of time at Scripps. Moved back to the Bay after graduating and didn't expect to miss it as much as I do.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bassammalik)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikbassam14@gmail.com)
 
 ---
 
 ## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Proficiency**
-
-![Python](https://progress-bar.xyz/95/?title=Python&width=220&color=3776AB)
-![PyTorch](https://progress-bar.xyz/85/?title=PyTorch&width=220&color=EE4C2C)
-![Docker](https://progress-bar.xyz/80/?title=Docker&width=220&color=2496ED)
-![React/JS](https://progress-bar.xyz/75/?title=React+%2F+JS&width=220&color=61DAFB)
-![AWS](https://progress-bar.xyz/70/?title=AWS&width=220&color=FF9900)
+Python · PyTorch · LangChain · Docker · AWS · React · Flask · scikit-learn · Git
 
 ---
 
@@ -50,13 +36,6 @@ Swimming. Running. Probably reading something about AI safety.
 | **[Smart Grid Energy Management](https://github.com/bassammalik/Smart-Grid-Energy-Management)** | RL agent for microgrid energy optimization |
 | **[Spam/Ham Classifier](https://github.com/bassammalik/spam-ham-classifier)** | ML/NLP pipeline for SMS classification |
 | **[Char-RNN Shakespeare](https://github.com/bassammalik/char-rnn-shakespeare)** | Character-level RNN trained on Shakespeare |
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bassammalik)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassammalik@ucsd.edu)
 
 ---
 
