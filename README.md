@@ -1,8 +1,6 @@
 # Bassam Malik
 
-Software engineer and ML engineer based in the Bay Area.
-
-I studied ML and neural computation at UC San Diego and I'm finishing my master's in CS at Georgia Tech. Right now I'm working on RAG eval pipelines and SDK integrations at a startup. Before that I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
+Studied ML and neural computation at UC San Diego and finishing my master's in CS at Georgia Tech. Currently working on RAG eval pipelines and SDK integrations at a startup. Before that I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
 
 Lately I've been getting more interested in ML safety and reliability. I like thinking about how these systems behave in practice, where they break, and how to make them more consistent when people actually depend on them.
 
