@@ -1,7 +1,5 @@
 # Bassam Malik
 
-# Bassam Malik
-
 Software engineer and ML engineer based in the Bay Area.
 
 I studied ML and neural computation at UC San Diego and I'm finishing my master's in CS at Georgia Tech. Right now I'm working on RAG eval pipelines and SDK integrations at PAIR Systems. Before that I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
