@@ -35,8 +35,3 @@ Python · PyTorch · LangChain · Docker · AWS · React · Flask · scikit-lear
 | **[Spam/Ham Classifier](https://github.com/bassammalik/spam-ham-classifier)** | ML/NLP pipeline for SMS classification |
 | **[Char-RNN Shakespeare](https://github.com/bassammalik/char-rnn-shakespeare)** | Character-level RNN trained on Shakespeare |
 
----
-
-## Activity
-
-![Snake animation](https://github.com/bassammalik/bassammalik/blob/output/github-contribution-grid-snake-dark.svg)
