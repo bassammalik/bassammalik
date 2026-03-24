@@ -3,7 +3,7 @@ Studied machine learning and neural computations at UC San Diego and am now fini
 
 Lately I've been getting more interested in ML safety and reliability. I like thinking about how these systems behave in practice, where they break, and how to make them more consistent when people actually depend on them.
 
-Outside of work I swim, run, and make a pretty serious ribeye. Went to school in San Diego and spent a lot of time at Scripps catching sunsets. Moved back to the Bay after graduating and miss SD everyday.
+Outside of work I swim, run, and make a pretty serious ribeye. Went to school in San Diego and spent a lot of time at Scripps catching sunsets. Moved back to the Bay after graduating and miss it everyday.
 
 ---
 
