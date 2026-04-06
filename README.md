@@ -13,6 +13,6 @@ Outside of work I swim, run, and make a pretty serious ribeye. Went to school in
 
 ## Stack
 
-Python · PyTorch · TensorFlow · LangChain · Docker · AWS · scikit-learn · Java · C/C++ · Git
+Python · Java · C/C++ · PyTorch · TensorFlow · LangChain · Docker · AWS · scikit-learn · Git
 
 ---
