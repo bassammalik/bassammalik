@@ -1,4 +1,4 @@
-Studied ML and neural computations at UC San Diego and I'm currently finishing up my master's at Georgia Tech. Also working on RAG eval pipelines and SDK integrations at a startup. Before I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
+Studied ML and neural computations at UC San Diego and I'm currently finishing up my master's at Georgia Tech. Also working on RAG eval pipelines and SDK integrations at a startup. Before that I was at Mercor building tools to debug LLM inference failures across a bunch of repos.
 
 Outside of work I swim, run, and make a pretty serious ribeye. Went to school in San Diego and spent a lot of time at Scripps catching sunsets. Moved back to the Bay after graduating and miss it everyday.
 
